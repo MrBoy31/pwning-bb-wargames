@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Why Bad Bank exists](why-owasp-juice-shop-exists.md)
+* [Why Bad Bank exists](why-bad-bank-exists.md)
 * [Architecture overview](architecture-overview.md)
 * [Part I - Hacking preparations](part-i-hacking-preparations/README.md)
   * [Hacking exercise rules](part-i-hacking-preparations/hacking-exercise-rules.md)
