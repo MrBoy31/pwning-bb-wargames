@@ -13,6 +13,7 @@
   * [Forgotten Content](part-ii-challenge-hunting/forgotten-content.md)
   * [Roll your own Security](part-ii-challenge-hunting/roll-your-own-security.md)
   * [Sensitive Data Exposure](part-ii-challenge-hunting/sensitive-data-exposure.md)
+  * [About this book](part-ii-challenge-hunting/about-this-book.md)
   * [XML External Entities \(XXE\)](part-ii-challenge-hunting/xml-external-entities-xxe.md)
   * [Improper Input Validation](part-ii-challenge-hunting/improper-input-validation.md)
   * [Broken Access Control](part-ii-challenge-hunting/broken-access-control.md)
@@ -21,9 +22,4 @@
   * [Insecure Deserialization](part-ii-challenge-hunting/insecure-deserialization.md)
   * [Vulnerable Components](part-ii-challenge-hunting/vulnerable-components.md)
   * [Security through Obscurity](part-ii-challenge-hunting/security-through-obscurity.md)
-* [Part III - Getting involved](part-iii-getting-involved/README.md)
-  * [Provide feedback](part-iii-getting-involved/provide-feedback.md)
-  * [Help with translation](part-iii-getting-involved/help-with-translation.md)
-  * [Donations](part-iii-getting-involved/donations.md)
-* [About this book](about-this-book.md)
 

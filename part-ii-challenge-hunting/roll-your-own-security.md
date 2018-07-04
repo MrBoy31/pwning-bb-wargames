@@ -70,10 +70,7 @@ By now you probably made the connection: This challenge is about _redirecting_ t
 
 #### Hints
 
-* You can find several places where redirects happen in the OWASP Juice
-
-  Shop
-
+* You can find several places where redirects happen in the Bad Bank Shop
 * The application will only allow you to redirect to _whitelisted_ URLs
 * Tampering with the redirect mechanism might give you some valuable
 

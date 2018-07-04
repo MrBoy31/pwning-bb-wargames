@@ -14,7 +14,7 @@ The challenges in this chapter are all about files or features that were simply 
 
 ### Let us redirect you to a donation site that went out of business
 
-One of the sites that the Juice Shop accepted donations from went out of business end of 2017.
+One of the sites that the Bad Bank Shop accepted donations from went out of business end of 2017.
 
 #### Hints
 
@@ -28,7 +28,7 @@ One of the sites that the Juice Shop accepted donations from went out of busines
 
 ### Use a deprecated B2B interface that was not properly shut down
 
-The Juice Shop represents a classic Business-to-Consumer \(B2C\) application, but it also has some enterprise customers for which it would be inconvenient to order large quantities of juice through the webshop UI. For those customers there is a dedicated B2B interface.
+The **Bad Bank Shop** represents a classic Business-to-Consumer \(B2C\) application, but it also has some enterprise customers for which it would be inconvenient to order large quantities of money through the webshop UI. For those customers there is a dedicated B2B interface.
 
 #### Hints
 
@@ -61,7 +61,7 @@ _While requesting a file is sufficient to solve this challenge, you might want t
 
 > A project is internationalized when all of the project’s materials and deliverables are consumable by an international audience. This can involve translation of materials into different languages, and the distribution of project deliverables into different countries.
 
-Following this requirement OWASP sets for all its projects, the Juice Shop's user interface is available in different languages. One extra language is actually available that you will not find in the selection menu.
+Following this requirement OWASP sets for all its projects, the **Bad Bank's** user interface is available in different languages. One extra language is actually available that you will not find in the selection menu.
 
 ![Language selection dropdown](../.gitbook/assets/languages.png)
 
@@ -93,5 +93,5 @@ Why waste money for a product when you can just as well get your hands on its bl
 
   place like so many others forgotten files covered in this chapter
 
-:information_source: \_If you are running the Juice Shop with a custom theme and product inventory, the product to inspect will be a different one. The tooltip on the Score Board will tell you which one._
+🛈 _\_If you are running the Juice Shop with a custom theme and product inventory, the product to inspect will be a different one. The tooltip on the Score Board will tell you which one._
 

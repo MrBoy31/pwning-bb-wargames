@@ -148,5 +148,5 @@ That is why the actual challenge here is to unlock and solve the "premium" chall
 
   challenge!\*\*
 
-> Side note: The Bitcoin address behind the taunting _Unlock_ button is actually a valid address of the author. So, if you'd like to donate a small amount for the ongoing maintenance and development of OWASP Juice Shop - feel free to actually use it! More on [donations in part 3](../part-iii-getting-involved/donations.md) of this book.
+> Side note: The Bitcoin address behind the taunting _Unlock_ button is actually a valid address of the author. So, if you'd like to donate a small amount for the ongoing maintenance and development of OWASP Juice Shop - feel free to actually use it! More on [donations in part 3]() of this book.
 

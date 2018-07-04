@@ -64,7 +64,7 @@ Like every proper enterprise, the **Bad Bank Shop** has of course an `#/about` p
 
 From a dropdown menu in the navigation bar you can select a multitude of languages you want the user interface to be displayed in. On the top of the list, you find languages with complete translations, the ones below with a "flask"-icon next to them, offer only partial translation.
 
-If you want to know more about \(or even help with\) the localization of **Bad Bank Shop**, please refer to the [Help with translation](../part-iii-getting-involved/help-with-translation.md) chapter in part III of this book.
+If you want to know more about \(or even help with\) the localization of **Bad Bank Shop**, please refer to the [Help with translation]() chapter in part III of this book.
 
 ## Provide feedback
 
