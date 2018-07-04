@@ -13,7 +13,6 @@
   * [Forgotten Content](part-ii-challenge-hunting/forgotten-content.md)
   * [Roll your own Security](part-ii-challenge-hunting/roll-your-own-security.md)
   * [Sensitive Data Exposure](part-ii-challenge-hunting/sensitive-data-exposure.md)
-  * [About this book](part-ii-challenge-hunting/about-this-book.md)
   * [XML External Entities \(XXE\)](part-ii-challenge-hunting/xml-external-entities-xxe.md)
   * [Improper Input Validation](part-ii-challenge-hunting/improper-input-validation.md)
   * [Broken Access Control](part-ii-challenge-hunting/broken-access-control.md)
