@@ -4,7 +4,7 @@ This part of the book can be read from end to end as a _hacking guide_. Used in 
 
 In case you want to look up hints for a particular challenge, the following tables lists all challenges of the **Bad Bank Shop** grouped by their difficulty and in the same order as they appear on the Score Board.
 
-## Trivial Challenges \(  :star:  \)
+## Trivial Challenges \(  🌟  \)
 
 | Challenge | Description | Hints | Solution |
 | :--- | :--- | :--- | :--- |
@@ -16,7 +16,7 @@ In case you want to look up hints for a particular challenge, the following tabl
 | XSS Tier 1 | Perform a reflected XSS attack with `<script>alert("XSS")</script>`. | [  ](cross-site-scripting-xss.md#perform-a-reflected-xss-attack)💡[  ](cross-site-scripting-xss.md#perform-a-reflected-xss-attack) | [ ](https://github.com/MrBoy31/pwning-bb-wargames/tree/f91da0f4e2fc196c7c04ea1c9ac3fd4dac131a54/appendix/solutions.md#perform-a-reflected-xss-attack)💯[ ](https://github.com/MrBoy31/pwning-bb-wargames/tree/f91da0f4e2fc196c7c04ea1c9ac3fd4dac131a54/appendix/solutions.md#perform-a-reflected-xss-attack) |
 | Zero Stars | Give a devastating zero-star feedback to the store. | [  ](improper-input-validation.md#give-a-devastating-zero-star-feedback-to-the-store)💡[  ](improper-input-validation.md#give-a-devastating-zero-star-feedback-to-the-store) | [ ](https://github.com/MrBoy31/pwning-bb-wargames/tree/f91da0f4e2fc196c7c04ea1c9ac3fd4dac131a54/appendix/solutions.md#give-a-devastating-zero-star-feedback-to-the-store)💯[ ](https://github.com/MrBoy31/pwning-bb-wargames/tree/f91da0f4e2fc196c7c04ea1c9ac3fd4dac131a54/appendix/solutions.md#give-a-devastating-zero-star-feedback-to-the-store) |
 
-## Easy Challenges \(  :star::star:  \)
+## Easy Challenges \( 🌟🌟  \)
 
 | Challenge | Description | Hints | Solution |
 | :--- | :--- | :--- | :--- |
@@ -29,7 +29,7 @@ In case you want to look up hints for a particular challenge, the following tabl
 | Password Strength | Log in with the administrator's user credentials without previously changing them or applying SQL Injection. | [  :bulb:  ](broken-authentication.md#log-in-with-the-administrators-user-credentials-without-previously-changing-them-or-applying-sql-injection) | [ :godmode: ](https://github.com/MrBoy31/pwning-bb-wargames/tree/f91da0f4e2fc196c7c04ea1c9ac3fd4dac131a54/appendix/solutions.md#log-in-with-the-administrators-user-credentials-without-previously-changing-them-or-applying-sql-injection) |
 | Weird Crypto | Inform the shop about an algorithm or library it should definitely not use the way it does. | [  :bulb:  ](sensitive-data-exposure.md#inform-the-shop-about-an-algorithm-or-library-it-should-definitely-not-use-the-way-it-does) | [ :godmode: ](https://github.com/MrBoy31/pwning-bb-wargames/tree/f91da0f4e2fc196c7c04ea1c9ac3fd4dac131a54/appendix/solutions.md#inform-the-shop-about-an-algorithm-or-library-it-should-definitely-not-use-the-way-it-does) |
 
-## Medium Challenges \(  :star::star::star:  \)
+## Medium Challenges \(  🌟🌟🌟  \)
 
 | Challenge | Description | Hints | Solution |
 | :--- | :--- | :--- | :--- |
@@ -47,7 +47,7 @@ In case you want to look up hints for a particular challenge, the following tabl
 | XSS Tier 3 | Perform a persisted XSS attack with `<script>alert("XSS")</script>` without using the frontend application at all. | [  :bulb:  ](cross-site-scripting-xss.md#perform-a-persisted-xss-attack-without-using-the-frontend-application-at-all) | [ :godmode: ](https://github.com/MrBoy31/pwning-bb-wargames/tree/f91da0f4e2fc196c7c04ea1c9ac3fd4dac131a54/appendix/solutions.md#perform-a-persisted-xss-attack-without-using-the-frontend-application-at-all) |
 | XXE Tier 1 | Retrieve the content of `C:\Windows\system.ini` or `/etc/passwd` from the server. | [  :bulb:  ](xml-external-entities-xxe.md#retrieve-the-content-of-cwindowssystemini-or-etcpasswd-from-the-server) | [ :godmode: ](https://github.com/MrBoy31/pwning-bb-wargames/tree/f91da0f4e2fc196c7c04ea1c9ac3fd4dac131a54/appendix/solutions.md#retrieve-the-content-of-cwindowssystemini-or-etcpasswd-from-the-server) |
 
-## Hard Challenges \(  :star::star::star::star:  \)
+## Hard Challenges \(  🌟🌟🌟🌟  \)
 
 | Challenge | Description | Hints | Solution |
 | :--- | :--- | :--- | :--- |
@@ -67,7 +67,7 @@ In case you want to look up hints for a particular challenge, the following tabl
 | Vulnerable Library | Inform the shop about a vulnerable library it is using. \(Mention the exact library name and version in your comment\) | [  :bulb:  ](vulnerable-components.md#inform-the-shop-about-a-vulnerable-library-it-is-using) | [ :godmode: ](https://github.com/MrBoy31/pwning-bb-wargames/tree/f91da0f4e2fc196c7c04ea1c9ac3fd4dac131a54/appendix/solutions.md#inform-the-shop-about-a-vulnerable-library-it-is-using) |
 | XSS Tier 4 | Perform a persisted XSS attack with `<script>alert("XSS")</script>` bypassing a server-side security mechanism. | [  :bulb:  ](cross-site-scripting-xss.md#perform-a-persisted-xss-attack-bypassing-a-server-side-security-mechanism) | [ :godmode: ](https://github.com/MrBoy31/pwning-bb-wargames/tree/f91da0f4e2fc196c7c04ea1c9ac3fd4dac131a54/appendix/solutions.md#perform-a-persisted-xss-attack-bypassing-a-server-side-security-mechanism) |
 
-## Dreadful Challenges \(  :star::star::star::star::star:  \)
+## Dreadful Challenges \(  🌟🌟🌟🌟🌟  \)
 
 | Challenge | Description | Hints | Solution |
 | :--- | :--- | :--- | :--- |
@@ -82,7 +82,7 @@ In case you want to look up hints for a particular challenge, the following tabl
 | Typosquatting Tier 2 | Inform the shop about a more literal instance of _typosquatting_ it fell for. \(Mention the exact name of the culprit\) | [  :bulb:  ](vulnerable-components.md#inform-the-shop-about-a-more-literal-instance-of-typosquatting-it-fell-for) | [ :godmode: ](https://github.com/MrBoy31/pwning-bb-wargames/tree/f91da0f4e2fc196c7c04ea1c9ac3fd4dac131a54/appendix/solutions.md#inform-the-shop-about-a-more-literal-instance-of-typosquatting-it-fell-for) |
 | XXE Tier 2 | Give the server something to chew on for quite a while. | [  :bulb:  ](xml-external-entities-xxe.md#give-the-server-something-to-chew-on-for-quite-a-while) | [ :godmode: ](https://github.com/MrBoy31/pwning-bb-wargames/tree/f91da0f4e2fc196c7c04ea1c9ac3fd4dac131a54/appendix/solutions.md#give-the-server-something-to-chew-on-for-quite-a-while) |
 
-## Diabolic Challenges \(  :star::star::star::star::star::star:  \)
+## Diabolic Challenges \(  🌟🌟🌟🌟🌟🌟  \)
 
 | Challenge | Description | Hints | Solution |
 | :--- | :--- | :--- | :--- |
