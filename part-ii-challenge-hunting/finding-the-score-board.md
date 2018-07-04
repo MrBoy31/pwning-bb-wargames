@@ -1,12 +1,12 @@
 # Finding the Score Board
 
-In part 1 you were introduced to the Score Board and learned how it tracks your challenge hacking progress. You also had a "happy path" tour through the *Bad Bank Shop* application from the perspective of a regular customer without malicious intentions. But you never saw the Score Board, did you?
+In part 1 you were introduced to the Score Board and learned how it tracks your challenge hacking progress. You also had a "happy path" tour through the _**Bad Bank Shop**_ ****application from the perspective of a regular customer without malicious intentions. But you never saw the Score Board, did you?
 
 ## Challenges covered in this chapter
 
 | Challenge | Difficulty |
 | :--- | :--- |
-| Find the carefully hidden 'Score Board' page. | :star: |
+| Find the carefully hidden 'Score Board' page. | ⭐ |
 
 ### Find the carefully hidden 'Score Board' page
 
