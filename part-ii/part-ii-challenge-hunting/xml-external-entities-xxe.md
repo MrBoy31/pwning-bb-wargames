@@ -12,8 +12,8 @@
 
 | Challenge | Difficulty |
 | :--- | :--- |
-| Retrieve the content of `C:\Windows\system.ini` or `/etc/passwd` from the server. | :star::star::star: |
-| Give the server something to chew on for quite a while. | :star::star::star::star::star: |
+| Retrieve the content of `C:\Windows\system.ini` or `/etc/passwd` from the server. | ⭐⭐⭐ |
+| Give the server something to chew on for quite a while. | ⭐⭐⭐⭐⭐⭐ |
 
 ### Retrieve the content of C:\Windows\system.ini or /etc/passwd from the server
 

@@ -6,11 +6,11 @@ The challenges in this chapter are all about files or features that were simply 
 
 | Challenge | Difficulty |
 | :--- | :--- |
-| Let us redirect you to a donation site that went out of business. | :star: |
-| Use a deprecated B2B interface that was not properly shut down. | :star::star: |
-| Travel back in time to the golden era of web design. | :star::star::star::star: |
-| Retrieve the language file that never made it into production. | :star::star::star::star::star: |
-| Deprive the shop of earnings by downloading the blueprint for one of its products. | :star::star::star::star::star: |
+| Let us redirect you to a donation site that went out of business. | ⭐ |
+| Use a deprecated B2B interface that was not properly shut down. | ⭐⭐ |
+| Travel back in time to the golden era of web design. | ⭐⭐⭐⭐ |
+| Retrieve the language file that never made it into production. | ⭐⭐⭐⭐⭐: |
+| Deprive the shop of earnings by downloading the blueprint for one of its products. | ⭐⭐⭐⭐⭐ |
 
 ### Let us redirect you to a donation site that went out of business
 

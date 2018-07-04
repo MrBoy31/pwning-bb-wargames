@@ -8,8 +8,8 @@ Many applications contain content which is not supposed to be publicly accessibl
 
 | Challenge | Difficulty |
 | :--- | :--- |
-| Learn about the Token Sale before its official announcement. | :star::star::star: |
-| Apply some advanced cryptanalysis to find _the real_ easter egg. | :star::star::star::star: |
+| Learn about the Token Sale before its official announcement. | ⭐⭐⭐ |
+| Apply some advanced cryptanalysis to find _the real_ easter egg. | ⭐⭐⭐⭐ |
 
 ### Learn about the Token Sale before its official announcement
 

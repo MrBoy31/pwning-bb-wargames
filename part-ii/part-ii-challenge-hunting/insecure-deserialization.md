@@ -8,8 +8,8 @@
 
 | Challenge | Difficulty |
 | :--- | :--- |
-| Perform a Remote Code Execution that would keep a less hardened application busy forever. | :star::star::star::star::star: |
-| Perform a Remote Code Execution that occupies the server for a while without using infinite loops. | :star::star::star::star::star::star: |
+| Perform a Remote Code Execution that would keep a less hardened application busy forever. | ⭐⭐⭐⭐⭐ |
+| Perform a Remote Code Execution that occupies the server for a while without using infinite loops. | ⭐⭐⭐⭐⭐⭐ |
 
 ### Perform a Remote Code Execution that would keep a less hardened application busy forever
 

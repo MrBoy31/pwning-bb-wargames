@@ -12,13 +12,13 @@
 
 | Challenge | Difficulty |
 | :--- | :--- |
-| Order the Christmas special offer of 2014. | :star::star: |
-| Log in with the administrator's user account. | :star::star: |
-| Log in with Bender's user account. | :star::star::star: |
-| Log in with Jim's user account. | :star::star::star: |
-| Let the server sleep for some time. \(It has done more than enough hard work for you\) | :star::star::star::star: |
-| Update multiple product reviews at the same time. | :star::star::star::star: |
-| Retrieve a list of all user credentials via SQL Injection | :star::star::star::star: |
+| Order the Christmas special offer of 2014. | ⭐⭐ |
+| Log in with the administrator's user account. | ⭐⭐ |
+| Log in with Bender's user account. | ⭐⭐⭐ |
+| Log in with Jim's user account. | ⭐⭐⭐ |
+| Let the server sleep for some time. \(It has done more than enough hard work for you\) | ⭐⭐⭐⭐ |
+| Update multiple product reviews at the same time. | ⭐⭐⭐⭐ |
+| Retrieve a list of all user credentials via SQL Injection | ⭐⭐⭐⭐ |
 
 #### Reconnaissance advice
 

@@ -4,13 +4,13 @@
 
 | Challenge | Difficulty |
 | :--- | :--- |
-| Log in with the administrator's user credentials without previously changing them or applying SQL Injection. | :star::star: |
-| Reset Jim's password via the Forgot Password mechanism with _the truthful answer_ to his security question. | :star::star::star: |
-| Change Bender's password into _slurmCl4ssic_ without using SQL Injection. | :star::star::star::star: |
-| Log in with Bjoern's user account without previously changing his password, applying SQL Injection, or hacking his Google account. | :star::star::star::star: |
-| Reset Bender's password via the Forgot Password mechanism with _the truthful answer_ to his security question. | :star::star::star::star: |
-| Exploit OAuth 2.0 to log in with the Chief Information Security Officer's user account. | :star::star::star::star::star: |
-| Reset Bjoern's password via the Forgot Password mechanism with _the truthful answer_ to his security question. | :star::star::star::star::star: |
+| Log in with the administrator's user credentials without previously changing them or applying SQL Injection. | ⭐⭐ |
+| Reset Jim's password via the Forgot Password mechanism with _the truthful answer_ to his security question. | ⭐⭐⭐ |
+| Change Bender's password into _slurmCl4ssic_ without using SQL Injection. | ⭐⭐⭐⭐ |
+| Log in with Bjoern's user account without previously changing his password, applying SQL Injection, or hacking his Google account. | ⭐⭐⭐⭐ |
+| Reset Bender's password via the Forgot Password mechanism with _the truthful answer_ to his security question. | ⭐⭐⭐⭐ |
+| Exploit OAuth 2.0 to log in with the Chief Information Security Officer's user account. | ⭐⭐⭐⭐⭐ |
+| Reset Bjoern's password via the Forgot Password mechanism with _the truthful answer_ to his security question. | ⭐⭐⭐⭐⭐ |
 
 ### Log in with the administrator's user credentials without previously changing them or applying SQL Injection
 
