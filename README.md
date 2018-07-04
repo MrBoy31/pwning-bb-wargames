@@ -4,7 +4,7 @@ description: 'Hello Gamer :)'
 
 # Introduction
 
-This game is a mod of the excellent OWASP Juice Shop - written by [Björn Kimminich](http://kimminich.de/). For full  emersion and to have some fun we will refer to the Juice Shop in the documentation as the '**Bad Bank Shop**' - in order to get the full experience. 
+_This game is a mod of the excellent OWASP Juice Shop - written by_ [_Björn Kimminich_](http://kimminich.de/)_. For full  emersion and to have some fun we will refer to the Juice Shop in the documentation as the '**Bad Bank Shop**' - in order to get the full experience._ 
 
 ![](.gitbook/assets/war-games_logo-4.jpg)
 
