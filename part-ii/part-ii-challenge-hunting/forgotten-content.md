@@ -50,7 +50,7 @@ You probably agree that this is one of the more ominously described challenges. 
 
 #### Hints
 
-![Time travel challenge on the score board](../.gitbook/assets/travel-back-in-time_challenge.png)
+![Time travel challenge on the score board](../../.gitbook/assets/travel-back-in-time_challenge.png)
 
 * The mentioned _golden era_ lasted from 1994 to 2009.
 * You can solve this challenge by requesting a specific file
@@ -63,7 +63,7 @@ _While requesting a file is sufficient to solve this challenge, you might want t
 
 Following this requirement OWASP sets for all its projects, the **Bad Bank's** user interface is available in different languages. One extra language is actually available that you will not find in the selection menu.
 
-![Language selection dropdown](../.gitbook/assets/languages.png)
+![Language selection dropdown](../../.gitbook/assets/languages.png)
 
 #### Hints
 

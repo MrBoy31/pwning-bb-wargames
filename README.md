@@ -1,3 +1,7 @@
+---
+description: 'Hello Gamer :)'
+---
+
 # Introduction
 
 This game is a mod of the excellent OWASP Juice Shop - written by [Björn Kimminich](http://kimminich.de/). For full  emersion and to have some fun we will refer to the Juice Shop in the documentation as the '**Bad Bank Shop**' - in order to get the full experience. 
@@ -18,7 +22,7 @@ Part two gives an overview of the vulnerabilities found in the OWASP Juice Shop 
 
 ## Disclaimer
 
-_Please be aware that this book is not supposed to be a comprehensive introduction to Web Application Security in general. For every category of vulnerabilities present in the OWASP Juice Shop you will find a brief explanation - typically by quoting and referencing to existing content on the given topic._
+_Please be aware that this book is not supposed to be a comprehensive introduction to Web Application Security in general. For every category of vulnerabilities present in the **Bad Bank Shop** you will find a brief explanation - typically by quoting and referencing to existing content on the given topic._
 
 [![CC BY-NC-ND 4.0](.gitbook/assets/cc_by-nc-nd_4.0.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 

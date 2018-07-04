@@ -12,19 +12,19 @@ When choosing a browser to work with you want to pick one with good integrated \
 
 When hacking a web application that relies heavily on JavaScript, **it is essential to your success to monitor the** _**JavaScript Console**_ **permanently!** It might leak valuable information to you through error or debugging logs!
 
-![DevTools Console tab](../.gitbook/assets/devtools_console.png)
+![DevTools Console tab](../../.gitbook/assets/devtools_console.png)
 
 Other useful features of browser DevTools are their network overview as well as insight into the client-side JavaScript code, cookies and other local storage being used by the application.
 
-![DevTools Network tab](../.gitbook/assets/devtools_network.png)
+![DevTools Network tab](../../.gitbook/assets/devtools_network.png)
 
-![DevTools Sources tab](../.gitbook/assets/devtools_sources.png)
+![DevTools Sources tab](../../.gitbook/assets/devtools_sources.png)
 
-![DevTools Application tab](../.gitbook/assets/devtools_cookies.png)
+![DevTools Application tab](../../.gitbook/assets/devtools_cookies.png)
 
 If you are not familiar with the features of DevTools yet, there is a worthwhile online-learning course [Discover DevTools](https://www.codeschool.com/courses/discover-devtools) on [Code School](https://www.codeschool.com) available for free. It teaches you hands-on how Chrome's powerful developer toolkit works. The course is worth a look even if you think you know the DevTools quite well already.
 
-![Discover DevTools course on Code School](../.gitbook/assets/codeschool_devtools.png)
+![Discover DevTools course on Code School](../../.gitbook/assets/codeschool_devtools.png)
 
 #### Tools for HTTP request tampering
 
@@ -56,7 +56,7 @@ The open-source [OWASP Zed Attack Proxy \(ZAP\)](https://www.owasp.org/index.php
 
 > ZAP is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications. It is designed to be used by people with a wide range of security experience and as such is ideal for developers and functional testers who are new to penetration testing. ZAP provides automated scanners as well as a set of tools that allow you to find security vulnerabilities manually.
 
-![ZAP Logo](../.gitbook/assets/zap.png)
+![ZAP Logo](../../.gitbook/assets/zap.png)
 
 #### Pentesting Linux distributions
 
@@ -70,7 +70,7 @@ The keyword in the previous quote is _advanced_! More precisely, Kali Linux is _
 
 Although there exist some more light-weight pentesting distributions, they basically still present a high hurdle for people new to the IT security field. If you still feel up to it, give Kali Linux a try!
 
-![Kali Logo](../.gitbook/assets/kali.jpg)
+![Kali Logo](../../.gitbook/assets/kali.jpg)
 
 ### Internet
 
@@ -78,7 +78,7 @@ You are free to use Google during your hacking session to find helpful websites 
 
 ## 💡 Getting hints
 
-Frankly speaking, you are reading the _premium source of hints_ right now! Congratulations! In case you want to hack more on your own than [follow the breadcrumbs through the wood of challenges in part II](../part-ii-challenge-hunting/), the most direct way to ask for specific hints for a particular challenge is the community chat.
+Frankly speaking, you are reading the _premium source of hints_ right now! Congratulations! In case you want to hack more on your own than [follow the breadcrumbs through the wood of challenges in part II](../../part-ii/part-ii-challenge-hunting/), the most direct way to ask for specific hints for a particular challenge is the community chat.
 
 ## ❌ Things considered cheating
 

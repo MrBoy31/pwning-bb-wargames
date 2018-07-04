@@ -39,7 +39,7 @@ Another user login challenge where only the original password is accepted as a s
 
 * After watching [the music video of this song](https://www.youtube.com/watch?v=v59CX2DiX0Y), you should agree that even :star::star: is a slightly exaggerated difficulty rating for this challenge.
 
-  [![&quot;Protect Ya Passwordz&quot;](../.gitbook/assets/protect-ya-passwordz.jpg)](https://www.youtube.com/watch?v=v59CX2DiX0Y)
+  [![&quot;Protect Ya Passwordz&quot;](../../.gitbook/assets/protect-ya-passwordz.jpg)](https://www.youtube.com/watch?v=v59CX2DiX0Y)
 
 ### Inform the shop about an algorithm or library it should definitely not use the way it does
 
@@ -77,7 +77,7 @@ To fulfil this challenge you must identify a cryptographic algorithm \(or crypto
 
 ### Forge a coupon code that gives you a discount of at least 80%
 
-This is probably one of the hardest challenges in the OWASP Juice Shop. As you learned during [the "happy path" tour](../part-i-hacking-preparations/walking-the-happy-path.md), the web shop offers a _Coupon_ field to get a discount on your entire order during checkout. The challenge is to get a discount of at least 80% on an order. As no coupons with this high a discount are published, it is up to you to forge your own.
+This is probably one of the hardest challenges in the OWASP Juice Shop. As you learned during [the "happy path" tour](../../part-i/part-i-hacking-preparations/walking-the-happy-path.md), the web shop offers a _Coupon_ field to get a discount on your entire order during checkout. The challenge is to get a discount of at least 80% on an order. As no coupons with this high a discount are published, it is up to you to forge your own.
 
 #### Hints
 
