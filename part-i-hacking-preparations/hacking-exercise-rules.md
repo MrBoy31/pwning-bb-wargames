@@ -1,6 +1,6 @@
 # Hacking exercise rules
 
-## :white\_check\_mark: Recommended hacking tools
+## ✅ Recommended hacking tools
 
 ### Browser
 
@@ -40,7 +40,7 @@ If you feel more at home on the command line, `curl` will do the trick just as f
 
 #### Scripting tools
 
-:wrench: **TODO**
+🔧 **TODO**
 
 ### Penetration testing tools
 
@@ -76,11 +76,11 @@ Although there exist some more light-weight pentesting distributions, they basic
 
 You are free to use Google during your hacking session to find helpful websites or tools. **The Bad Bank Shop** is leaking useful information all over the place if you know where to look, but sometimes you simply need to extend your research to the Internet in order to gain some relevant piece of intel to beat a challenge.
 
-## :bulb: Getting hints
+## 💡 Getting hints
 
 Frankly speaking, you are reading the _premium source of hints_ right now! Congratulations! In case you want to hack more on your own than [follow the breadcrumbs through the wood of challenges in part II](../part-ii-challenge-hunting/), the most direct way to ask for specific hints for a particular challenge is the community chat.
 
-## :x: Things considered cheating
+## ❌ Things considered cheating
 
 ### Reading a solution before trying
 
@@ -104,7 +104,7 @@ The challenges \(and their progress\) live in one database together with the res
 
 ### Configuration REST API Endpoint
 
-:wrench: **TODO**
+🔧 **TODO**
 
 ### Score Board HTML/CSS
 
