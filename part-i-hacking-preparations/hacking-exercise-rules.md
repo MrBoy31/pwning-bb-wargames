@@ -44,7 +44,7 @@ If you feel more at home on the command line, `curl` will do the trick just as f
 
 ### Penetration testing tools
 
-You _can_ solve all challenges just using a browser and the plugins/tools mentioned above. If you are new to web application hacking \(or penetration testing in general\) this is also the _recommended_ set of tools to start with. In case you have experience with professional pentesting tools, you are free to use those! And you are _completely free_ in your choice, so expensive commercial products are just as fine as open source tools. With this kind of tooling you will have a competitive advantage for some of the challenges, especially those where _brute force_ is a viable attack. But there are just as many multi-staged vulnerabilities in the OWASP Juice Shop where - at the time of this writing - automated tools would probably not help you at all.
+You _can_ solve all challenges just using a browser and the plugins/tools mentioned above. If you are new to web application hacking \(or penetration testing in general\) this is also the _recommended_ set of tools to start with. In case you have experience with professional pentesting tools, you are free to use those! And you are _completely free_ in your choice, so expensive commercial products are just as fine as open source tools. With this kind of tooling you will have a competitive advantage for some of the challenges, especially those where _brute force_ is a viable attack. But there are just as many multi-staged vulnerabilities in the **Bad Bank Shop** where - at the time of this writing - automated tools would probably not help you at all.
 
 In the following sections you find some recommended pentesting tools in case you want to try one. Please be aware that the tools are not trivial to learn - let alone master. Trying to learn about the web application security basics _and_ hacking tools _at the same time_ is unlikely to get you very far in either of the two topics.
 
@@ -74,13 +74,11 @@ Although there exist some more light-weight pentesting distributions, they basic
 
 ### Internet
 
-You are free to use Google during your hacking session to find helpful websites or tools. The OWASP Juice Shop is leaking useful information all over the place if you know where to look, but sometimes you simply need to extend your research to the Internet in order to gain some relevant piece of intel to beat a challenge.
+You are free to use Google during your hacking session to find helpful websites or tools. **The Bad Bank Shop** is leaking useful information all over the place if you know where to look, but sometimes you simply need to extend your research to the Internet in order to gain some relevant piece of intel to beat a challenge.
 
 ## :bulb: Getting hints
 
-Frankly speaking, you are reading the _premium source of hints_ right now! Congratulations! In case you want to hack more on your own than [follow the breadcrumbs through the wood of challenges in part II](../part-ii-challenge-hunting/), the most direct way to ask for specific hints for a particular challenge is the community chat on Gitter.im at [https://gitter.im/bkimminich/juice-shop](https://gitter.im/bkimminich/juice-shop). You can simply log in to Gitter with your GitHub account.
-
-If you prefer, you can also use the project's Slack channel at [https://owasp.slack.com/messages/project-juiceshop](https://owasp.slack.com/messages/project-juiceshop). You just need to self-invite you to OWASP's Slack first at [http://owasp.herokuapp.com](http://owasp.herokuapp.com). If you like it a bit more nostalgic, you can also join and post to the project mailing list at [https://lists.owasp.org/mailman/listinfo/owasp\_juice\_shop\_project](https://lists.owasp.org/mailman/listinfo/owasp_juice_shop_project).
+Frankly speaking, you are reading the _premium source of hints_ right now! Congratulations! In case you want to hack more on your own than [follow the breadcrumbs through the wood of challenges in part II](../part-ii-challenge-hunting/), the most direct way to ask for specific hints for a particular challenge is the community chat.
 
 ## :x: Things considered cheating
 
@@ -90,23 +88,19 @@ You have been warned.
 
 ### Source code
 
-Juice Shop is supposed to be attacked in a "black box" manner. That means you cannot look into the source code to search for vulnerabilities. As the application tracks your successful attacks on its challenges, the code must contain checks to verify if you succeeded. These checks would give many solutions away immediately.
+The **Bad Bank Shop** is supposed to be attacked in a "black box" manner. That means you cannot look into the source code to search for vulnerabilities. As the application tracks your successful attacks on its challenges, the code must contain checks to verify if you succeeded. These checks would give many solutions away immediately.
 
 The same goes for several other implementation details, where vulnerabilities were arbitrarily programmed into the application. These would be obvious when the source code is reviewed.
 
-Finally the end-to-end test suite of Juice Shop was built hack all challenges automatically, in order to verify they can all be solved. These tests deliver all the required attacks on a silver plate when reviewed.
+Finally the end-to-end test suite of **Bad Bank** was built hack all challenges automatically, in order to verify they can all be solved. These tests deliver all the required attacks on a silver plate when reviewed.
 
 ### GitHub repository
 
 While stated earlier that "the Internet" is fine as a helpful resource, consider the GitHub repository as entirely off limits. First and foremost because it contains the source code \(see above\).
 
-Additionally it hosts the issue tracker of the project, which is used for idea management and task planning as well as bug tracking. You can of course submit an issue if you run into technical problems that are not covered by the [Troubleshooting section of the README.md](hacking-exercise-rules.md). You just should not read issues labelled `challenge` as they might contain spoilers or solutions.
-
-Of course you are explicitly allowed to view [the repository's README.md page](https://github.com/bkimminich/juice-shop/blob/master/README.md), which contains no spoilers but merely covers project introduction, setup and troubleshooting. Just do not "dig deeper" than that into the repository files and folders.
-
 ### Database table `Challenges`
 
-The challenges \(and their progress\) live in one database together with the rest of the application data, namely in the `Challenges` table. Of course you could "cheat" by simply editing the state of each challenge from _unsolved_ to _solved_ by setting the corresponding `solved` column to `1`. You then just have to keep your fingers crossed, that nobody ever asks you to _demonstrate how_ you actually solved all the 4- and 5-star challenges so quickly.
+The challenges \(and their progress\) live in one database together with the rest of the application data, namely in the `Challenges` table. Of course you could "cheat" by simply editing the state of each challenge from _unsolved_ to _solved_ by setting the corresponding `solved` column to `1`. You then just have to keep your fingers crossed, that nobody ever asks you to _**demonstrate how**_ **you actually solved all the 4- and 5-star challenges so quickly**.
 
 ### Configuration REST API Endpoint
 
