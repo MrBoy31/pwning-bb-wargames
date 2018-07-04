@@ -1,6 +1,6 @@
 # Finding the Score Board
 
-In part 1 you were introduced to the Score Board and learned how it tracks your challenge hacking progress. You also had a "happy path" tour through the Juice Shop application from the perspective of a regular customer without malicious intentions. But you never saw the Score Board, did you?
+In part 1 you were introduced to the Score Board and learned how it tracks your challenge hacking progress. You also had a "happy path" tour through the *Bad Bank Shop* application from the perspective of a regular customer without malicious intentions. But you never saw the Score Board, did you?
 
 ## Challenges covered in this chapter
 
