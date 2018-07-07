@@ -5,7 +5,7 @@
 ## PREFACE
 
 * [Introduction](preface/introduction.md)
-* [Why Bad Bank exists](preface/why-bad-bank-exists.md)
+* [Why Fruity Bank exists](preface/why-bad-bank-exists.md)
 * [Architecture overview](preface/architecture-overview.md)
 
 ## PART I
