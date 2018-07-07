@@ -44,7 +44,7 @@ If you feel more at home on the command line, `curl` will do the trick just as f
 
 ### Penetration testing tools
 
-You _can_ solve all challenges just using a browser and the plugins/tools mentioned above. If you are new to web application hacking \(or penetration testing in general\) this is also the _recommended_ set of tools to start with. In case you have experience with professional pentesting tools, you are free to use those! And you are _completely free_ in your choice, so expensive commercial products are just as fine as open source tools. With this kind of tooling you will have a competitive advantage for some of the challenges, especially those where _brute force_ is a viable attack. But there are just as many multi-staged vulnerabilities in the **Bad Bank Shop** where - at the time of this writing - automated tools would probably not help you at all.
+You _can_ solve all challenges just using a browser and the plugins/tools mentioned above. If you are new to web application hacking \(or penetration testing in general\) this is also the _recommended_ set of tools to start with. In case you have experience with professional pentesting tools, you are free to use those! And you are _completely free_ in your choice, so expensive commercial products are just as fine as open source tools. With this kind of tooling you will have a competitive advantage for some of the challenges, especially those where _brute force_ is a viable attack. But there are just as many multi-staged vulnerabilities in the **Fruity Bank Shop** where - at the time of this writing - automated tools would probably not help you at all.
 
 In the following sections you find some recommended pentesting tools in case you want to try one. Please be aware that the tools are not trivial to learn - let alone master. Trying to learn about the web application security basics _and_ hacking tools _at the same time_ is unlikely to get you very far in either of the two topics.
 
@@ -74,7 +74,7 @@ Although there exist some more light-weight pentesting distributions, they basic
 
 ### Internet
 
-You are free to use Google during your hacking session to find helpful websites or tools. **The Bad Bank Shop** is leaking useful information all over the place if you know where to look, but sometimes you simply need to extend your research to the Internet in order to gain some relevant piece of intel to beat a challenge.
+You are free to use Google during your hacking session to find helpful websites or tools. **The Fruity Bank Shop** is leaking useful information all over the place if you know where to look, but sometimes you simply need to extend your research to the Internet in order to gain some relevant piece of intel to beat a challenge.
 
 ## 💡 Getting hints
 
@@ -88,11 +88,11 @@ You have been warned.
 
 ### Source code
 
-The **Bad Bank Shop** is supposed to be attacked in a "black box" manner. That means you cannot look into the source code to search for vulnerabilities. As the application tracks your successful attacks on its challenges, the code must contain checks to verify if you succeeded. These checks would give many solutions away immediately.
+The **Fruity Bank Shop** is supposed to be attacked in a "black box" manner. That means you cannot look into the source code to search for vulnerabilities. As the application tracks your successful attacks on its challenges, the code must contain checks to verify if you succeeded. These checks would give many solutions away immediately.
 
 The same goes for several other implementation details, where vulnerabilities were arbitrarily programmed into the application. These would be obvious when the source code is reviewed.
 
-Finally the end-to-end test suite of **Bad Bank** was built hack all challenges automatically, in order to verify they can all be solved. These tests deliver all the required attacks on a silver plate when reviewed.
+Finally the end-to-end test suite of **Fruity Bank** was built hack all challenges automatically, in order to verify they can all be solved. These tests deliver all the required attacks on a silver plate when reviewed.
 
 ### GitHub repository
 
