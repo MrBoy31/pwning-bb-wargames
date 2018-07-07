@@ -1,6 +1,6 @@
 # Introduction
 
-![](../.gitbook/assets/welcome.gif)
+![Welcome](../.gitbook/assets/welcome.gif)
 
 This is the official companion guide to the **Fruity Bank** application. Being a web application with a vast number of intended security vulnerabilities, the Bad Bank is supposed to be the opposite of a _best practice_ or _template application_ for web developers: It is an awareness, training, demonstration and exercise tool for security risks in modern web applications.
 
