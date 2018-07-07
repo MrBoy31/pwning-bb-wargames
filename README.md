@@ -1,7 +1,3 @@
----
-description: 'Hello Gamer :)'
----
-
 # Introduction
 
 ![](.gitbook/assets/war-games_logo-4.jpg)
