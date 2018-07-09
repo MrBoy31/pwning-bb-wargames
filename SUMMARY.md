@@ -15,7 +15,7 @@
   * [Hacking exercise rules](part-i/part-i-hacking-preparations/hacking-exercise-rules.md)
   * [Walking the "happy path"](part-i/part-i-hacking-preparations/walking-the-happy-path.md)
 
-## PART II
+## Part II
 
 * [Part II - Challenge hunting](part-ii/part-ii-challenge-hunting/README.md)
   * [Finding the Score Board](part-ii/part-ii-challenge-hunting/finding-the-score-board.md)
@@ -33,7 +33,7 @@
   * [Vulnerable Components](part-ii/part-ii-challenge-hunting/vulnerable-components.md)
   * [Security through Obscurity](part-ii/part-ii-challenge-hunting/security-through-obscurity.md)
 
-## Next Level
+## Part III - Next Level
 
 * [What happens next?](next-level/what-happens-next.md)
 
