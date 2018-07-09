@@ -8,11 +8,11 @@ A good way to gain an understanding for the application, is to _actually use it_
 
 > Also known as the "sunny day" scenario, the happy path is the "normal" path of execution through a use case or through the software that implements it. Nothing goes wrong, nothing out of the normal happens, and we swiftly and directly achieve the user's or caller's goal.
 
-The **Bad Bank Shop** is a rather simple e-commerce application that covers the typical workflows of a web shop. The following sections briefly walk you through these "happy path" use cases.
+The **E. Corp Shop** is a rather simple e-commerce application that covers the typical workflows of a web shop. The following sections briefly walk you through these "happy path" use cases.
 
 ## Browse products
 
-When visiting the **Bad Bank Shop** you will be automatically forwarded to the `#/search` page, which shows a table with all available products. This is of course the "bread & butter" screen for any e-commerce site. When you click on the small "eye"-button next to the price of a product, an overlay screen will open showing you that product including an image of it.
+When visiting the **E. Corp Shop** you will be automatically forwarded to the `#/search` page, which shows a table with all available products. This is of course the "bread & butter" screen for any e-commerce site. When you click on the small "eye"-button next to the price of a product, an overlay screen will open showing you that product including an image of it.
 
 You can use the _Search..._ box in the navigation bar on the top of the screen to filter the table for specific products by their name and description.
 
@@ -52,23 +52,21 @@ Still on the `#/basket` page you also find some purchase related buttons that ar
 
 Finally you can click the _Checkout_ button to issue an order. You will be forwarded to a PDF with the confirmation of your order right away.
 
-_You will not find any "real" payment or delivery address options anywhere in the **Bad Bank Shop** as it is not a "real" shop, after all._
+_You will not find any "real" payment or delivery address options anywhere in the_ **E. Corp Shop** _as it is not a "real" shop, after all._
 
-There are also some secondary use cases that the **Bad Bank Shop** covers. While these are not critical for the shopping workflow itself, they positively influence the overall customer experience.
+There are also some secondary use cases that the **E. Corp Shop** covers. While these are not critical for the shopping workflow itself, they positively influence the overall customer experience.
 
 ## Get information about the shop
 
-Like every proper enterprise, the **Bad Bank Shop** has of course an `#/about` page titled _About Us_. There you find a summary of the interesting history of the shop along with a link to its official Terms of Use document. Additionally the page displays a fancy illustrated slideshow of customer feedback.
+Like every proper enterprise, the **E. Corp Shop** has of course an `#/about` page titled _About Us_. There you find a summary of the interesting history of the shop along with a link to its official Terms of Use document. Additionally the page displays a fancy illustrated slideshow of customer feedback.
 
 ## Language selection
 
 From a dropdown menu in the navigation bar you can select a multitude of languages you want the user interface to be displayed in. On the top of the list, you find languages with complete translations, the ones below with a "flask"-icon next to them, offer only partial translation.
 
-If you want to know more about \(or even help with\) the localization of **Bad Bank Shop**, please refer to the [Help with translation]() chapter in part III of this book.
-
 ## Provide feedback
 
-Customers are invited to leave feedback about their shopping experience with the **Bad Bank**. Simply visit the `#/contact` page by clicking the _Contact Us_ button in the navigation bar. You might recognize that it is also possible to leave feedback - when not logged in - as an anonymous user. The contact form is very straightforward with a free text _Comment_ field and a _Rating_ on a 1-5 stars scale.
+Customers are invited to leave feedback about their shopping experience with the **E. Corp Shop**. Simply visit the `#/contact` page by clicking the _Contact Us_ button in the navigation bar. You might recognize that it is also possible to leave feedback - when not logged in - as an anonymous user. The contact form is very straightforward with a free text _Comment_ field and a _Rating_ on a 1-5 stars scale.
 
 ## Complain about problems with an order
 
@@ -76,7 +74,7 @@ The _Complain?_ button is shown only to logged in users in the navbar. It brings
 
 ## Request Recycling Box
 
-When logged in you will furthermore see a _Recycle_ button that brings you to the `#/recycle` page. This is a very innovative feature that allows eco-friendly customers to order pre-stamped boxes for returning marketing leftovers to the **Bad Bank**. For greater amounts of pomace the customer can alternatively order a truck to come by and pick it up.
+When logged in you will furthermore see a _Recycle_ button that brings you to the `#/recycle` page. This is a very innovative feature that allows eco-friendly customers to order pre-stamped boxes for returning marketing leftovers to the **E. Corp Shop**. For greater amounts of pomace the customer can alternatively order a truck to come by and pick it up.
 
 ## Change user password
 
