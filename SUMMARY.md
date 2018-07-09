@@ -11,14 +11,14 @@
 
 ## PART I
 
-* [Part I - Hacking preparations](part-i/part-i-hacking-preparations/README.md)
+* [Hacking preparations](part-i/part-i-hacking-preparations/README.md)
   * [Vulnerability Categories](part-i/part-i-hacking-preparations/vulnerability-categories.md)
   * [Hacking exercise rules](part-i/part-i-hacking-preparations/hacking-exercise-rules.md)
   * [Walking the "happy path"](part-i/part-i-hacking-preparations/walking-the-happy-path.md)
 
 ## Part II
 
-* [Part II - Challenge hunting](part-ii/part-ii-challenge-hunting/README.md)
+* [Challenge hunting](part-ii/part-ii-challenge-hunting/README.md)
   * [Finding the Score Board](part-ii/part-ii-challenge-hunting/finding-the-score-board.md)
   * [Injection](part-ii/part-ii-challenge-hunting/injection.md)
   * [Broken Authentication](part-ii/part-ii-challenge-hunting/broken-authentication.md)

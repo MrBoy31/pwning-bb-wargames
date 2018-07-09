@@ -1,4 +1,4 @@
-# Part II - Challenge hunting
+# Challenge hunting
 
 This part of the book can be read from end to end as a _hacking guide_. Used in that way you will be walked through various types of web vulnerabilities and learn how to exploit their occurrences in the **Bad Bank Shop** application. Alternatively you can start hacking the **Bad Bank Shop** on your own and use this part simply as a reference and _source of hints_ in case you get stuck at a particular challenge.
 

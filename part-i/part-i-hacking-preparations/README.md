@@ -1,4 +1,4 @@
-# Part I - Hacking preparations
+# Hacking preparations
 
 Things to know before you hack...
 
