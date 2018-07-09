@@ -1,4 +1,4 @@
-# Why Fruity Bank exists
+# Why the E. Corp Shop exists
 
 To the unsuspecting user the **Fruity Bank shop** just looks like a small online shop which sells - _surprise!_ - bank things and associated products. Except for the entirely overrated payment and delivery aspect of the e-commerce business, the **Fruity Bank** is fully functional. But this is just the tip of the iceberg. The **Fruity Bank** contains  challenges of varying difficulty where you are supposed to exploit underlying security vulnerabilities. These vulnerabilities were intentionally planted in the application for exactly that purpose, but in a way that actually happens in "real-life" web development as well!
 

@@ -5,7 +5,7 @@
 ## PREFACE
 
 * [Introduction](preface/introduction.md)
-* [Why Fruity Bank exists](preface/why-bad-bank-exists.md)
+* [Why the E. Corp Shop exists](preface/why-bad-bank-exists.md)
 * [Architecture overview](preface/architecture-overview.md)
 
 ## PART I
