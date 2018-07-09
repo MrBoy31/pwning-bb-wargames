@@ -18,7 +18,7 @@ Part two gives an overview of the vulnerabilities found in the **E. Corp** **Sho
 
 ## Disclaimer
 
-_Please be aware that this book is not supposed to be a comprehensive introduction to Web Application Security in general. For every category of vulnerabilities present in the **Bad Bank Shop** you will find a brief explanation - typically by quoting and referencing to existing content on the given topic._
+_Please be aware that this book is not supposed to be a comprehensive introduction to Web Application Security in general. For every category of vulnerabilities present in the_  **E. Corp** **Shop**  _you will find a brief explanation - typically by quoting and referencing to existing content on the given topic._
 
 [![CC BY-NC-ND 4.0](.gitbook/assets/cc_by-nc-nd_4.0.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
