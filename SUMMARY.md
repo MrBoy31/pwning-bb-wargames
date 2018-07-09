@@ -11,6 +11,7 @@
 ## PART I
 
 * [Part I - Hacking preparations](part-i/part-i-hacking-preparations/README.md)
+  * [Vulnerability Categories](part-i/part-i-hacking-preparations/vulnerability-categories.md)
   * [Hacking exercise rules](part-i/part-i-hacking-preparations/hacking-exercise-rules.md)
   * [Walking the "happy path"](part-i/part-i-hacking-preparations/walking-the-happy-path.md)
 
