@@ -6,7 +6,7 @@ This is the official companion guide to the **E. Corp** **Shop** application. Be
 
 _This game is a mod of the excellent OWASP Juice Shop - written by_ [_Björn Kimminich_](http://kimminich.de/)_. For full_ _immersion and to have some fun we will refer to the Juice Shop in the documentation as the '_**E. Corp** **Shop**_' - in order to get the full experience. Please note this is a condensed version to help gamers get up to spend quickly. Have fun!_
 
-The book is divided into two parts:
+The book is divided into three parts:
 
 ## Part I - Hacking preparations
 
