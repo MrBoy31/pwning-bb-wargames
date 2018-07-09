@@ -78,7 +78,7 @@ If you successfully solved above [admin section challenge](broken-access-control
 
 ### Post some feedback in another users name
 
-The Juice Shop allows users to provide general feedback including a star rating and some free text comment. When logged in, the feedback will be associated with the current user. When not logged in, the feedback will be posted anonymously. This challenge is about vilifying another user by posting a \(most likely negative\) feedback in his or her name!
+The **E. Corp Shop** allows users to provide general feedback including a star rating and some free text comment. When logged in, the feedback will be associated with the current user. When not logged in, the feedback will be posted anonymously. This challenge is about vilifying another user by posting a \(most likely negative\) feedback in his or her name!
 
 #### Hints
 
@@ -92,7 +92,7 @@ The Juice Shop allows users to provide general feedback including a star rating 
 
 * The backend-side leverage point is similar to some of the
 
-  [XSS challenges](cross-site-scripting-xss.md) found in OWASP Juice Shop.
+  [XSS challenges](cross-site-scripting-xss.md) found in **E. Corp Shop**.
 
 ### Change the href of the link within the O-Saft product description
 
