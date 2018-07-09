@@ -16,6 +16,10 @@ Part one helps you to get the application running and to set up optional hacking
 
 Part two gives an overview of the vulnerabilities found in the **E. Corp** **Shop** including hints how to find and exploit them in the application.
 
+## Part III - Next Level {#part-iii-next-level}
+
+Part three covers what comes next... what can you do to keep playing and learning new tricks. Well, have we got a surprise for you...!
+
 ## Disclaimer
 
 _Please be aware that this book is not supposed to be a comprehensive introduction to Web Application Security in general. For every category of vulnerabilities present in the_ **E. Corp** **Shop** _you will find a brief explanation - typically by quoting and referencing to existing content on the given topic._
