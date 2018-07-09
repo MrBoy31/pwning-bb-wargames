@@ -32,3 +32,7 @@
   * [Vulnerable Components](part-ii/part-ii-challenge-hunting/vulnerable-components.md)
   * [Security through Obscurity](part-ii/part-ii-challenge-hunting/security-through-obscurity.md)
 
+## Next Level
+
+* [What happens next?](next-level/what-happens-next.md)
+
