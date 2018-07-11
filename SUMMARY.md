@@ -6,8 +6,8 @@
 
 * [Introduction](preface/introduction.md)
 * [Why the E. Corp Shop exists](preface/why-bad-bank-exists.md)
-* [Architecture overview](preface/architecture-overview/README.md)
-  * [Team and Ground Rules](preface/architecture-overview/team-and-ground-rules.md)
+* [Team and Ground Rules](preface/team-and-ground-rules.md)
+* [Architecture overview](preface/architecture-overview.md)
 
 ## PART I
 
