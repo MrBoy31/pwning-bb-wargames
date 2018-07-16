@@ -54,7 +54,7 @@ This challenge is founded on a very common security flaw of web applications, wh
 
 ### Perform a persisted XSS attack without using the frontend application at all
 
-As presented in the [Architecture Overview](../../preface/architecture-overview.md), the OWASP Juice Shop uses a JavaScript client on top of a RESTful API on the server side. Even without giving this fact away in the introduction chapter, you would have quickly figured this out looking at their interaction happening on the network. Most actions on the UI result in `XMLHttpRequest` \(`XHR`\) objects being sent and responded to by the server.
+As presented in the [Architecture Overview](../../preface/team-and-ground-rules/architecture-overview.md), the OWASP Juice Shop uses a JavaScript client on top of a RESTful API on the server side. Even without giving this fact away in the introduction chapter, you would have quickly figured this out looking at their interaction happening on the network. Most actions on the UI result in `XMLHttpRequest` \(`XHR`\) objects being sent and responded to by the server.
 
 ![XHR requests to the backend API](../../.gitbook/assets/xhr-api_requests.png)
 

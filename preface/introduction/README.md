@@ -1,6 +1,6 @@
 # Introduction
 
-![Welcome](../.gitbook/assets/welcome.gif)
+![Welcome](../../.gitbook/assets/welcome.gif)
 
 This is the official companion guide to the **E. Corp** **Shop** application. Being a web application with a vast number of intended security vulnerabilities, the Bad Bank is supposed to be the opposite of a _best practice_ or _template application_ for web developers: It is an awareness, training, demonstration and exercise tool for security risks in modern web applications.
 
@@ -24,7 +24,7 @@ Part three covers what comes next... what can you do to keep playing and learnin
 
 _Please be aware that this book is not supposed to be a comprehensive introduction to Web Application Security in general. For every category of vulnerabilities present in the_ **E. Corp** **Shop** _you will find a brief explanation - typically by quoting and referencing to existing content on the given topic._
 
-[![CC BY-NC-ND 4.0](../.gitbook/assets/cc_by-nc-nd_4.0.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![CC BY-NC-ND 4.0](../../.gitbook/assets/cc_by-nc-nd_4.0.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
