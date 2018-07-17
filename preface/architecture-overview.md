@@ -10,5 +10,5 @@ The push notifications that are shown when a challenge was successfully hacked, 
 
 The following diagram shows the high-level communication paths between the client, server and data layers:
 
-![Architecture overview diagram](../../.gitbook/assets/architecture-diagram.png)
+![Architecture overview diagram](../.gitbook/assets/architecture-diagram.png)
 

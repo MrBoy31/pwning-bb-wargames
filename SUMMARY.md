@@ -1,13 +1,13 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Introduction](introduction.md)
 
 ## PREFACE
 
-* [Introduction](preface/introduction/README.md)
-  * [Why the E. Corp Shop exists](preface/introduction/why-bad-bank-exists.md)
-  * [Architecture overview](preface/introduction/architecture-overview.md)
-  * [Team and Ground Rules](preface/introduction/team-and-ground-rules.md)
+* [Why the E. Corp Shop exists](preface/why-bad-bank-exists.md)
+* [Architecture overview](preface/architecture-overview.md)
+* [Team and Ground Rules](preface/team-and-ground-rules.md)
 
 ## PART I
 

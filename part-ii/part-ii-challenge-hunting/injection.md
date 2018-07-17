@@ -124,7 +124,7 @@ This challenge is about giving the server the chance to catch a breath by puttin
 
 * As stated in the
 
-  [Architecture overview](../../preface/introduction/architecture-overview.md), **Bad Bank Shop**
+  [Architecture overview](../../preface/architecture-overview.md), **Bad Bank Shop**
 
   Shop uses a MongoDB derivate as its NoSQL database.
 
