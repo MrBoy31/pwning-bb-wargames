@@ -90,7 +90,7 @@ Bender is a regular customer, but mostly hangs out in the **Bad Bank Shop** to t
 
 ### Log in with Jim's user account
 
-Jim is a regular customer. He prefers juice from fruits that no man has ever tasted before.
+Jim is a regular customer. He prefers to keep warm in the cold weather of South Africa...
 
 #### Hints
 
