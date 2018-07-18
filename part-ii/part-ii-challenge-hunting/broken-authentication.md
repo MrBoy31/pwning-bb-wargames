@@ -85,9 +85,9 @@ This challenge can only be solved by changing the password of user Bender into _
 
 ### Log in with Bjoern's user account
 
-The author of the OWASP Juice Shop \(and of this book\) was bold enough to link his Google account to the application. His account even ended up in the initial user records that are shipped with the Juice Shop for your hacking pleasure!
+The orginal author of the OWASP Juice Shop \(the boilerplate for this template\) was bold enough to link his Google account to the application. His account even ended up in the initial user records that are shipped with the E Corp Shop for your hacking pleasure!
 
-If you do not see the _Log in with Google_ button, do not despair! The hostname your Juice Shop is running on is simply not configured in the OAuth integration with Google. The OAuth-related challenges are still solvable! It might just take a little bit more detective work to find out how an OAuth login is handled.
+If you do not see the _Log in with Google_ button, do not despair! The hostname your Shop is running on is simply not configured in the OAuth integration with Google. The OAuth-related challenges are still solvable! It might just take a little bit more detective work to find out how an OAuth login is handled.
 
 #### Hints
 
@@ -109,7 +109,7 @@ If you do not see the _Log in with Google_ button, do not despair! The hostname 
 
   account and analyze closely what happens behind the scenes.
 
-* The security flaw behind this challenge is 100% Juice Shop's fault and
+* The security flaw behind this challenge is 100% the Shop's fault and
 
   0% Google's.
 
@@ -143,7 +143,7 @@ Similar to [the challenge of finding Jim's security answer](broken-authenticatio
 
 ### Exploit OAuth 2.0 to log in with the CISO's user account
 
-You should expect a Chief Information Security Officer to know everything there is to know about password policies and best practices. The Juice Shop CISO took it even one step further and chose an incredibly long random password with all kinds of regular and special characters. Good luck brute forcing that!
+You should expect a Chief Information Security Officer to know everything there is to know about password policies and best practices. The Shop CISO took it even one step further and chose an incredibly long random password with all kinds of regular and special characters. Good luck brute forcing that!
 
 #### Hints
 
@@ -159,7 +159,7 @@ You should expect a Chief Information Security Officer to know everything there 
 
 ### Reset Bjoern's password via the Forgot Password mechanism
 
-The final security question challenge is the one to find user Bjoern's answer. As the OWASP Juice Shop Project Leader and author of this book is not remotely as popular and publicly exposed as [Jim](broken-authentication.md#reset-jims-password-via-the-forgot-password-mechanism) or [Bender](broken-authentication.md#reset-benders-password-via-the-forgot-password-mechanism), this challenge should be significantly harder.
+The final security question challenge is the one to find user Bjoern's answer. As the Shop's Project Leader is not remotely as popular and publicly exposed as [Jim](broken-authentication.md#reset-jims-password-via-the-forgot-password-mechanism) or [Bender](broken-authentication.md#reset-benders-password-via-the-forgot-password-mechanism), this challenge should be significantly harder.
 
 #### Hints
 
