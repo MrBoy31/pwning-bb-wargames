@@ -92,7 +92,7 @@ The **E. Corp Shop** is supposed to be attacked in a "black box" manner. That me
 
 The same goes for several other implementation details, where vulnerabilities were arbitrarily programmed into the application. These would be obvious when the source code is reviewed.
 
-Finally the end-to-end test suite of **Fruity Bank** was built hack all challenges automatically, in order to verify they can all be solved. These tests deliver all the required attacks on a silver plate when reviewed.
+Finally the end-to-end test suite of **E. Corp Shop** was built hack all challenges automatically, in order to verify they can all be solved. These tests deliver all the required attacks on a silver plate when reviewed.
 
 ### GitHub repository
 
