@@ -2,7 +2,7 @@
 
 ![Welcome!](.gitbook/assets/welcome%20%281%29.gif)
 
-This is the official companion guide to the **E. Corp** **Shop** application. Being a web application with a vast number of intended security vulnerabilities, the Bad Bank is supposed to be the opposite of a _best practice_ or _template application_ for web developers: It is an awareness, training, demonstration and exercise tool for security risks in modern web applications. 
+This is the official companion guide to the **E. Corp** **Shop** application. Being a web application with a vast number of intended security vulnerabilities, the E. Corp Shop is supposed to be the opposite of a _best practice_ or _template application_ for web developers: It is an awareness, training, demonstration and exercise tool for security risks in modern web applications. 
 
 _This game is a mod of the excellent_ [_OWASP Juice Shop_](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) _- written by Björn Kimminich. For full  immersion and to have some fun we will refer to the Juice Shop in the documentation as the '_**E. Corp** **Shop**_' - in order to get the full experience. Please note this is a condensed version to help gamers get up to spend quickly. Have fun!_
 
