@@ -80,9 +80,9 @@ By now you probably made the connection: This challenge is about _redirecting_ t
 
 ### Submit 10 or more customer feedbacks within 10 seconds
 
-:wrench: **TODO**
+ 🔧 **TODO**
 
 #### Hints
 
-:wrench: **TODO**
+ 🔧 **TODO**
 

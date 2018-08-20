@@ -13,11 +13,11 @@ Many applications contain content which is not supposed to be publicly accessibl
 
 ### Learn about the Token Sale before its official announcement
 
-:wrench: **TODO**
+ 🔧 **TODO**
 
 #### Hints
 
-:wrench: **TODO**
+ 🔧 **TODO**
 
 ### Apply some advanced cryptanalysis to find the real easter egg
 
